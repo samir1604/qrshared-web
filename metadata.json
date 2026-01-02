@@ -1,0 +1,8 @@
+
+{
+  "name": "QRShared Landing Page",
+  "description": "A high-conversion landing page for QRShared, a utility app for Transfermóvil payments and transfers in Cuba, featuring a bold ExpressVPN-inspired aesthetic and Todoist-like structure.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
